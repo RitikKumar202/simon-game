@@ -22,6 +22,7 @@ h1 {
     width: 200px;
     border: 8px solid #ffffff80;
     border-radius: 20%;
+    cursor: pointer;
 }
 
 .red {
